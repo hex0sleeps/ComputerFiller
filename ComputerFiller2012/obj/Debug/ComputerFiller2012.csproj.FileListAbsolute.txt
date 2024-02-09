@@ -1,0 +1,6 @@
+D:\ComputerFiller2012\ComputerFiller2012\bin\Debug\ComputerFiller2012.exe.config
+D:\ComputerFiller2012\ComputerFiller2012\obj\Debug\ComputerFiller2012.csprojResolveAssemblyReference.cache
+D:\ComputerFiller2012\ComputerFiller2012\bin\Debug\ComputerFiller2012.exe
+D:\ComputerFiller2012\ComputerFiller2012\bin\Debug\ComputerFiller2012.pdb
+D:\ComputerFiller2012\ComputerFiller2012\obj\Debug\ComputerFiller2012.exe
+D:\ComputerFiller2012\ComputerFiller2012\obj\Debug\ComputerFiller2012.pdb
